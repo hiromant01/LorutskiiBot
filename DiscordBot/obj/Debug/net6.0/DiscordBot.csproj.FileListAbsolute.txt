@@ -1,0 +1,15 @@
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\DiscordBot\bin\Debug\net6.0\DiscordBot.deps.json
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\DiscordBot\bin\Debug\net6.0\DiscordBot.dll
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\DiscordBot\bin\Debug\net6.0\ref\DiscordBot.dll
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\DiscordBot\bin\Debug\net6.0\DiscordBot.pdb
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\DiscordBot\obj\Debug\net6.0\DiscordBot.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\DiscordBot\obj\Debug\net6.0\DiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\DiscordBot\obj\Debug\net6.0\DiscordBot.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\DiscordBot\obj\Debug\net6.0\DiscordBot.AssemblyInfo.cs
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\DiscordBot\obj\Debug\net6.0\DiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\DiscordBot\obj\Debug\net6.0\DiscordBot.dll
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\DiscordBot\obj\Debug\net6.0\ref\DiscordBot.dll
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\DiscordBot\obj\Debug\net6.0\DiscordBot.pdb
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\DiscordBot\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\DiscordBot\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\DiscordBot\obj\Debug\net6.0\DiscordBot.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\TwitchBot\bin\Debug\net6.0\TwitchBot.deps.json
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\TwitchBot\bin\Debug\net6.0\TwitchBot.dll
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\TwitchBot\bin\Debug\net6.0\ref\TwitchBot.dll
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\TwitchBot\bin\Debug\net6.0\TwitchBot.pdb
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\TwitchBot\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\TwitchBot\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\TwitchBot\obj\Debug\net6.0\TwitchBot.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\TwitchBot\obj\Debug\net6.0\TwitchBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\TwitchBot\obj\Debug\net6.0\TwitchBot.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\TwitchBot\obj\Debug\net6.0\TwitchBot.AssemblyInfo.cs
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\TwitchBot\obj\Debug\net6.0\TwitchBot.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\TwitchBot\obj\Debug\net6.0\TwitchBot.csproj.CopyComplete
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\TwitchBot\obj\Debug\net6.0\TwitchBot.dll
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\TwitchBot\obj\Debug\net6.0\ref\TwitchBot.dll
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\TwitchBot\obj\Debug\net6.0\TwitchBot.pdb
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\TwitchBot\bin\Debug\net6.0\Modules.dll
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\TwitchBot\bin\Debug\net6.0\Modules.pdb

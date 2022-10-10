@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bba2a0d3-b070-4f92-b2ec-ae59684b5c5c": {
+      "ProjectGuid": "bba2a0d3-b070-4f92-b2ec-ae59684b5c5c",
+      "DisplayName": "DiscordBot",
+      "ColorIndex": 0
+    },
+    "01b702ea-3c37-46ca-abce-f9ea8134fc09": {
+      "ProjectGuid": "01b702ea-3c37-46ca-abce-f9ea8134fc09",
+      "DisplayName": "TwitchBot",
+      "ColorIndex": 1
+    },
+    "262aa891-2e3d-491f-b5bc-438d6b5f4096": {
+      "ProjectGuid": "262aa891-2e3d-491f-b5bc-438d6b5f4096",
+      "DisplayName": "LorutskiiBot",
+      "ColorIndex": 2
+    },
+    "c4e690bf-ffb1-4954-b983-bae0a7d4989f": {
+      "ProjectGuid": "c4e690bf-ffb1-4954-b983-bae0a7d4989f",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "f48029f3-596c-4532-919f-ba16654d4328": {
+      "ProjectGuid": "f48029f3-596c-4532-919f-ba16654d4328",
+      "DisplayName": "Modules",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,15 @@
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\Modules\bin\Debug\net6.0\Modules.deps.json
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\Modules\bin\Debug\net6.0\Modules.dll
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\Modules\bin\Debug\net6.0\ref\Modules.dll
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\Modules\bin\Debug\net6.0\Modules.pdb
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\Modules\obj\Debug\net6.0\Modules.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\Modules\obj\Debug\net6.0\Modules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\Modules\obj\Debug\net6.0\Modules.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\Modules\obj\Debug\net6.0\Modules.AssemblyInfo.cs
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\Modules\obj\Debug\net6.0\Modules.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\Modules\obj\Debug\net6.0\Modules.dll
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\Modules\obj\Debug\net6.0\ref\Modules.dll
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\Modules\obj\Debug\net6.0\Modules.pdb
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\Modules\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\Modules\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\danil\Desktop\Отдельные проекты\LorutskiiBot\Modules\obj\Debug\net6.0\Modules.csproj.CopyComplete
